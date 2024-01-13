@@ -6,7 +6,7 @@ This is a simple flutter-based note taking mobile app.
 ----------------------
 
 ### 📦 II. Dependencies
-- **Flutter** -
+- 
 
 ----------------------
 
