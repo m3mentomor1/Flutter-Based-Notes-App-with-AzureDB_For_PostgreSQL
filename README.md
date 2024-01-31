@@ -1,4 +1,4 @@
-# Flutter-Based Notes App with Azure Database For PostgreSQL
+# Note-Taking Mobile App
 
 ### 🧐 I. Overview
 This is a simple flutter-based note taking mobile app.
