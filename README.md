@@ -1,4 +1,4 @@
-# Note-Taking Mobile App
+# ThoughtVault
 
 ### 🧐 I. Overview
 This is a simple flutter-based note taking mobile app.
